@@ -21748,7 +21748,3 @@ sub {
     padding-top: calc(16px + 20px);
   }
 }
-
-body {
-  background-color: #a7d9ff;
-}
